@@ -1,16 +1,8 @@
-<!-- ===================== -->
-<!-- 🔥 Custom Banner -->
-<!-- ===================== -->
-
 <!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/grey300/grey300/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/grey300/grey300/main/banner.png" alt="Banner" onerror="this.style.display='none'" />
 </p> -->
 
 ---
-
-<!-- ===================== -->
-<!-- ✨ Animated Typing Intro -->
-<!-- ===================== -->
 
 <p align="center">
   <img 
@@ -21,16 +13,13 @@
 ---
 
 # 👋 About Me  
-
 🚀 **Computer Science student specializing in AI & Data Science** at  
 **Gyalpozhing College of Information Technology (GCIT), Bhutan**.
-
 I love blending **technical precision** with **creative problem-solving** to build efficient AI-driven software systems.
 
 ---
 
 ## 🚀 Currently Working On  
-
 ### 🔍 RAG Chatbot for ACC  
 Developing a secure on-premise **Retrieval-Augmented Generation agentic chatbot** to enhance investigative workflows through autonomous document analysis.
 
@@ -48,14 +37,10 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir)
 
----
-
 ### 🌐 Frontend  
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-
----
 
 ### ⚙ Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
@@ -66,53 +51,44 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 ---
 
 ## 🏆 Achievements  
-
 🏅 **GCIT x TashiCell Hackathon Winner** — AI-powered chatbot  
-🥇 **Best Project of 2024 (GCIT)** — *PoYo: AI Yoga Platform*  
-🛡 **Cyber CTF Track 1 Winner** — Forensics, Crypto, Web Security  
+🥇 **Best Project of 2024 (GCIT)** — *PoYo: AI Yoga Platform* 🛡 **Cyber CTF Track 1 Winner** — Forensics, Crypto, Web Security  
 
 ---
 
 # 📌 Featured Projects  
-
 <p align="center">
   <a href="https://github.com/grey300/POYO-Pocket-Yoga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=POYO-Pocket-Yoga&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=POYO-Pocket-Yoga&theme=tokyonight" alt="Poyo Project" />
   </a>
-
   <a href="https://github.com/CGD595/PRJ303_Group4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGD595&repo=PRJ303_Group4&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGD595&repo=PRJ303_Group4&theme=tokyonight" alt="Group Project" />
   </a>
 </p>
 
 ---
 
 # 📊 GitHub Statistics  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight&count_private=true" alt="Main Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grey300&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grey300&theme=tokyonight" alt="Streak Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grey300&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grey300&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 # 🐍 Contribution Snake Animation  
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grey300/grey300/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/grey300/grey300/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-# 📄 Resume Download Button  
-
+# 📄 Resume Download  
 <p align="center">
   <a href="https://raw.githubusercontent.com/grey300/grey300/main/Tshering_Gyeltshen_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20My%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
@@ -122,10 +98,7 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 ---
 
 # 📫 Connect With Me  
-
-📧 Email: **tsheringgyeltshen31415@gmail.com**  
-💼 LinkedIn: **linkedin.com/in/gyeltshen3000**
+📧 Email: **tsheringgyeltshen31415@gmail.com** 💼 LinkedIn: [linkedin.com/in/gyeltshen3000](https://linkedin.com/in/gyeltshen3000)
 
 ---
-
 ✨ *“Blending creativity with technical precision.”*
