@@ -2,9 +2,9 @@
 <!-- 🔥 Custom Banner -->
 <!-- ===================== -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/grey300/grey300/main/banner.png" alt="Banner" />
-</p> -->
+</p>
 
 ---
 
@@ -73,17 +73,15 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 
 ---
 
-# 📌 Featured Projects (Pinned Cards)
-
-⚠ Replace repo names with your real repositories.
+# 📌 Featured Projects  
 
 <p align="center">
   <a href="https://github.com/grey300/POYO-Pocket-Yoga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=poyo&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=POYO-Pocket-Yoga&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/CGD595/PRJ303_Group4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=zora-ai&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGD595&repo=PRJ303_Group4&theme=tokyonight" />
   </a>
 </p>
 
