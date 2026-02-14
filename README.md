@@ -2,9 +2,9 @@
 <!-- 🔥 Custom Banner -->
 <!-- ===================== -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/grey300/grey300/main/banner.png" alt="Banner" />
-</p>
+</p> -->
 
 ---
 
