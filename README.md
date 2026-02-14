@@ -94,22 +94,22 @@ Strengthened software engineering foundations using **Elixir + Phoenix Framework
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyeltshen3000&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyeltshen3000&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grey300&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyeltshen3000&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grey300&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏅 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyeltshen3000&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=grey300&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
