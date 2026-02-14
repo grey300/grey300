@@ -78,22 +78,12 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 ⚠ Replace repo names with your real repositories.
 
 <p align="center">
-  <a href="https://github.com/grey300/poyo">
+  <a href="https://github.com/grey300/POYO-Pocket-Yoga">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=poyo&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/grey300/zora-ai">
+  <a href="https://github.com/CGD595/PRJ303_Group4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=zora-ai&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/grey300/rag-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=rag-chatbot&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/grey300/zeebar-resort">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=zeebar-resort&theme=tokyonight" />
   </a>
 </p>
 
