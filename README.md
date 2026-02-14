@@ -1,23 +1,38 @@
-# Hi there 👋 I'm Tshering Gyeltshen  
+<!-- ===================== -->
+<!-- 🔥 Custom Banner -->
+<!-- ===================== -->
 
-🚀 **Computer Science student specializing in AI & Data Science** at  
-**Gyalpozhing College of Information Technology (GCIT), Bhutan**.  
-
-I’m passionate about building intelligent systems that combine **technical precision** with **creative problem-solving** — from full-stack platforms to advanced AI-powered applications.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/grey300/grey300/main/banner.png" alt="Banner" />
+</p>
 
 ---
 
-## 🌟 About Me  
-- 🎓 Final-year BCS student (AI Development & Data Science)  
-- 🤖 Focused on **LLMs, RAG systems, NLP, and Computer Vision**  
-- 🧩 Love solving real-world problems through efficient software design  
-- 🏆 Hackathon Winner + Awarded Best Project of 2024 at GCIT  
+<!-- ===================== -->
+<!-- ✨ Animated Typing Intro -->
+<!-- ===================== -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tshering+Gyeltshen+👋;AI+%26+Data+Science+Student+🤖;Full-Stack+Developer+⚡;Building+RAG+Agents+%26+Smart+Systems+🚀" 
+  />
+</p>
+
+---
+
+# 👋 About Me  
+
+🚀 **Computer Science student specializing in AI & Data Science** at  
+**Gyalpozhing College of Information Technology (GCIT), Bhutan**.
+
+I love blending **technical precision** with **creative problem-solving** to build efficient AI-driven software systems.
 
 ---
 
 ## 🚀 Currently Working On  
+
 ### 🔍 RAG Chatbot for ACC  
-Developing a secure, on-premise **Retrieval-Augmented Generation agentic chatbot** to enhance investigative workflows through autonomous document and data analysis.
+Developing a secure on-premise **Retrieval-Augmented Generation agentic chatbot** to enhance investigative workflows through autonomous document analysis.
 
 ### 🎓 Academic Journey  
 Finalizing my Bachelor’s degree in **AI Development & Data Science**.
@@ -50,48 +65,41 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 
 ---
 
-### 🤖 AI & Data Science  
-- LLMs & Agentic Systems  
-- Retrieval-Augmented Generation (RAG)  
-- NLP & Data Analysis  
-- Computer Vision Applications  
-
----
-
-### ☁ DevOps  
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-
----
-
 ## 🏆 Achievements  
+
 🏅 **GCIT x TashiCell Hackathon Winner** — AI-powered chatbot  
 🥇 **Best Project of 2024 (GCIT)** — *PoYo: AI Yoga Platform*  
 🛡 **Cyber CTF Track 1 Winner** — Forensics, Crypto, Web Security  
 
 ---
 
-## 💼 Professional Highlights  
-### ✈ DrukAir  
-Architected and deployed **KB Online**, a centralized internal portal with Dockerized microservices and RBAC authentication.
+# 📌 Featured Projects (Pinned Cards)
 
-### 🧠 No Mind Bhutan  
-AI Intern — contributed to system upgrades and network security improvements.
+⚠ Replace repo names with your real repositories.
 
-### ⚡ T3 Cloud  
-Strengthened software engineering foundations using **Elixir + Phoenix Framework**.
+<p align="center">
+  <a href="https://github.com/grey300/poyo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=poyo&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/grey300/zora-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=zora-ai&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/grey300/rag-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=rag-chatbot&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/grey300/zeebar-resort">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=zeebar-resort&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects  
-🔹 **PoYo – Pocket Yoga** (AI-powered yoga assistant with Computer Vision)  
-🔹 **Zora AI** (Learning platform for Bhutanese students)  
-🔹 **Zeebar Resort Booking System** (Reservation + payments integration)  
-🔹 **RAG Chatbot for ACC** (On-premise investigative AI assistant)
-
----
-
-## 📊 GitHub Statistics  
+# 📊 GitHub Statistics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight" />
@@ -107,14 +115,26 @@ Strengthened software engineering foundations using **Elixir + Phoenix Framework
 
 ---
 
-## 🏅 GitHub Trophies  
+# 🐍 Contribution Snake Animation  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grey300&theme=tokyonight&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/grey300/grey300/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Connect With Me  
+# 📄 Resume Download Button  
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/grey300/grey300/main/Tshering_Gyeltshen_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20My%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📫 Connect With Me  
+
 📧 Email: **tsheringgyeltshen31415@gmail.com**  
 💼 LinkedIn: **linkedin.com/in/gyeltshen3000**
 
