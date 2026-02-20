@@ -52,18 +52,6 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 
 ---
 
-# 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/grey300/POYO-Pocket-Yoga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grey300&repo=POYO-Pocket-Yoga&theme=tokyonight" alt="Poyo Project" />
-  </a>
-  <a href="https://github.com/CGD595/PRJ303_Group4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CGD595&repo=PRJ303_Group4&theme=tokyonight" alt="Group Project" />
-  </a>
-</p>
-
----
-
 # 📊 GitHub Statistics  
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight" alt="Main Stats" />
