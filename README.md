@@ -53,24 +53,26 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 ---
 
 # 📊 GitHub Statistics  
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight" alt="Main Stats" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="495"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight" alt="Streak Stats" />
+  <img 
+    src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight&hide_border=true" 
+    width="495"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grey300&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
----
-
-# 🐍 Contribution Snake Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/grey300/grey300/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grey300&theme=tokyonight&hide_border=true" 
+    width="495"
+  />
 </p>
 
 ---
