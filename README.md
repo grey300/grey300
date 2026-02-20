@@ -68,8 +68,13 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight&count_private=true" alt="Main Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grey300&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grey300&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
