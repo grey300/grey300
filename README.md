@@ -1,8 +1,4 @@
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/grey300/grey300/main/banner.png" alt="Banner" onerror="this.style.display='none'" />
-</p> -->
 
----
 
 <p align="center">
   <img 
