@@ -66,7 +66,7 @@ Finalizing my Bachelor’s degree in **AI Development & Data Science**.
 
 # 📊 GitHub Statistics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight&count_private=true" alt="Main Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ugyentech&show_icons=true&theme=tokyonight" alt="Main Stats" />
 </p>
 
 <p align="center">
