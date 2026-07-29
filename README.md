@@ -1,93 +1,18 @@
+# Hi, I'm Tshering Gyeltshen
 
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tshering+Gyeltshen+👋;AI+%26+Data+Science+Student+🤖;Full-Stack+Developer+⚡;Building+RAG+Agents+%26+Smart+Systems+🚀" 
-  />
-</p>
+A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhutan** — I want to make things go beep boop.
 
 ---
 
-# 👋 About Me  
-🚀 **Computer Science student specializing in AI & Data Science** at  
-**Gyalpozhing College of Information Technology (GCIT), Bhutan**.
-I love blending **technical precision** with **creative problem-solving** to build efficient AI-driven software systems.
+## Projects
+
+- **RAG Chatbot for ACC** — A secure on-premise Retrieval-Augmented Generation agent for autonomous document analysis and investigative workflows.
+- **PoYo** — An AI-powered yoga platform.
 
 ---
 
-## 🚀 Currently Working On  
-### 🔍 RAG Chatbot for ACC  
-Developing a secure on-premise **Retrieval-Augmented Generation agentic chatbot** to enhance investigative workflows through autonomous document analysis.
+## Tech Stack
 
-### 🎓 Academic Journey  
-Finalizing my Bachelor’s degree in **AI Development & Data Science**.
-
----
-
-## 🛠 Technical Stack  
-
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir)
-
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-
-### ⚙ Backend & Databases  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Phoenix](https://img.shields.io/badge/Phoenix-orange?style=for-the-badge&logo=phoenixframework)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
----
-
-## 🏆 Achievements  
-🏅 **GCIT x TashiCell Hackathon Winner** — AI-powered chatbot  
-🥇 **Best Project of 2024 (GCIT)** — *PoYo: AI Yoga Platform* 🛡 **Cyber CTF Track 1 Winner** — Forensics, Crypto, Web Security  
-
----
-
-# 📊 GitHub Statistics  
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="495"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight&hide_border=true" 
-    width="495"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grey300&layout=compact&theme=tokyonight&hide_border=true" 
-    width="495"
-  />
-</p>
-
----
-
-# 📄 Resume Download  
-<p align="center">
-  <a href="https://raw.githubusercontent.com/grey300/grey300/main/Tshering_Gyeltshen_CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20My%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 📫 Connect With Me  
-📧 Email: **tsheringgyeltshen31415@gmail.com** 💼 LinkedIn: [linkedin.com/in/gyeltshen3000](https://linkedin.com/in/gyeltshen3000)
-
----
-✨ *“Blending creativity with technical precision.”*
+**Languages:** Python · JavaScript · Java · C# · Elixir
+**Frontend:** React · Next.js · Tailwind CSS
+**Backend & Databases:** Node.js · Phoenix · MongoDB · PostgreSQL
