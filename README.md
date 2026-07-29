@@ -6,8 +6,17 @@
 
 ## Projects
 
-- <sub>**RAG Chatbot for ACC** — A secure on-premise Retrieval-Augmented Generation agent for autonomous document analysis and investigative workflows.</sub>
-- <sub>**PoYo** — An AI-powered yoga platform.</sub>
+**Freelance**
+
+- <sub>**Zeebar Resort**</sub>
+- <sub>**Druk Happy Cleaning Services**</sub>
+
+**College**
+
+- <sub>**PoYo** — Pocket Yoga, an AI-powered yoga platform.</sub>
+- <sub>**Zora**</sub>
+- <sub>**Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows.</sub>
+- <sub>**Drukair Inner Portal**</sub>
 
 ---
 
