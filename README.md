@@ -43,10 +43,6 @@
   <img src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight&hide_border=true" width="420" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grey300&layout=compact&theme=tokyonight&hide_border=true" width="420" />
-</p>
-
 ---
 
 ## 📫 Connect
