@@ -6,7 +6,7 @@
 
 ## Projects
 
-**🪂Freelance**
+**🪂 Freelance**
 <sub>
 
 • **Zeebar Resort**<br>
@@ -14,7 +14,7 @@
 
 </sub>
 
-**🎓College**
+**🎓 College**
 <sub>
 
 • **PoYo** — Pocket Yoga, an AI-powered yoga platform.<br>
@@ -23,7 +23,7 @@
 
 </sub>
 
-**👔Corporate Service**
+**👔 Corporate Service**
 <sub>
 
 • **Drukair Inner Portal**
