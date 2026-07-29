@@ -7,16 +7,28 @@
 ## Projects
 
 **Freelance**
+<sub>
 
-- <sub>**Zeebar Resort**</sub>
-- <sub>**Druk Happy Cleaning Services**</sub>
+• **Zeebar Resort**<br>
+• **Druk Happy Cleaning Services**
+
+</sub>
 
 **College**
+<sub>
 
-- <sub>**PoYo** — Pocket Yoga, an AI-powered yoga platform.</sub>
-- <sub>**Zora**</sub>
-- <sub>**Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows.</sub>
-- <sub>**Drukair Inner Portal**</sub>
+• **PoYo** — Pocket Yoga, an AI-powered yoga platform.<br>
+• **Zora** — AI-powered education platform.<br>
+• **Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows.
+
+</sub>
+
+**Corporate Service**
+<sub>
+
+• **Drukair Inner Portal**
+
+</sub>
 
 ---
 
