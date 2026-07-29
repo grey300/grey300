@@ -13,6 +13,9 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 
 ## Tech Stack
 
-**Languages:** Python · JavaScript · Java · C# · Elixir
-**Frontend:** React · Next.js · Tailwind CSS
-**Backend & Databases:** Node.js · Phoenix · MongoDB · PostgreSQL
+| | |
+|---|---|
+| **Languages** | Python · JavaScript · Java · C# · Elixir |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend** | Node.js · Phoenix |
+| **Databases** | MongoDB · PostgreSQL |
