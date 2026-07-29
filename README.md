@@ -6,12 +6,8 @@
 
 ## Projects
 
-<sub>
-
-- **RAG Chatbot for ACC** — A secure on-premise Retrieval-Augmented Generation agent for autonomous document analysis and investigative workflows.
-- **PoYo** — An AI-powered yoga platform.
-
-</sub>
+- <sub>**RAG Chatbot for ACC** — A secure on-premise Retrieval-Augmented Generation agent for autonomous document analysis and investigative workflows.</sub>
+- <sub>**PoYo** — An AI-powered yoga platform.</sub>
 
 ---
 
@@ -55,9 +51,5 @@
 
 ## 📫 Connect
 
-<sub>
-
-📧 **tsheringgyeltshen31415@gmail.com**
-💼 [linkedin.com/in/gyeltshen3000](https://linkedin.com/in/gyeltshen3000)
-
-</sub>
+- <sub>📧 **tsheringgyeltshen31415@gmail.com**</sub>
+- <sub>💼 [linkedin.com/in/gyeltshen3000](https://linkedin.com/in/gyeltshen3000)</sub>
