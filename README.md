@@ -9,16 +9,16 @@
 **🪂 Freelance**
 <sub>
 
-• **Zeebar Resort**<br>
-• **Druk Happy Cleaning Services**
+• **[Zeebar Resort](https://zeebarresort.bt/)**<br>
+• **[Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)**
 
 </sub>
 
 **🎓 College**
 <sub>
 
-• **PoYo** — Pocket Yoga, an AI-powered yoga platform.<br>
-• **Zora** — AI-powered education platform.<br>
+• **[PoYo](https://poyo-pocket-yoga.vercel.app/)** — Pocket Yoga, an AI-powered yoga platform.<br>
+• **[Zora](https://zora-nine-gamma.vercel.app/)** — AI-powered education platform.<br>
 • **Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows.
 
 </sub>
@@ -29,7 +29,7 @@
 • **Drukair Inner Portal**
 
 </sub>
-  
+
 ---
 
 # 🛠 Technical Stack
