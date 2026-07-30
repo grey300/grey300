@@ -1,6 +1,6 @@
 # Hi, I'm Tshering Gyeltshen
 
-<sub>A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhutan** — I want to make things go beep boop.</sub>
+A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhutan** — I want to make things go beep boop.
 
 ---
 
