@@ -6,15 +6,12 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 
 ## Projects
 
-<sub>
-• **🧘🏻‍♀️[PoYo](https://poyo-pocket-yoga.vercel.app/)** — Pocket Yoga, an AI-powered yoga platform.<br>
-• **🎓[Zora](https://zora-nine-gamma.vercel.app/)** — AI-powered education platform.<br>
-• **🤖Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows. <br>
-• **🛩️Drukair Inner Portal** - A internal portal for the coorperate system of DrukAir <br>
-• **⛲️[Zeebar Resort](https://zeebarresort.bt/)** - Booking website for a resort.<br>
-• **🧹[Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)** - Booking management for a cleaning service.
-
-</sub>
+• **🧘🏻‍♀️ [PoYo](https://poyo-pocket-yoga.vercel.app/)** — Pocket Yoga, an AI-powered yoga platform.<br>
+• **🎓 [Zora](https://zora-nine-gamma.vercel.app/)** — AI-powered education platform.<br>
+• **🤖 Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows.<br>
+• **🛩️ Drukair Inner Portal** — An internal portal for the corporate system of Drukair.<br>
+• **⛲️ [Zeebar Resort](https://zeebarresort.bt/)** — Booking website for a resort.<br>
+• **🧹 [Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)** — Booking management for a cleaning service.
 
 ---
 
@@ -54,5 +51,5 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 
 ## 📫 Connect
 
-- <sub>📧 **tsheringgyeltshen31415@gmail.com**</sub>
-- <sub>💼 [linkedin.com/in/gyeltshen3000](https://linkedin.com/in/gyeltshen3000)</sub>
+📧 **tsheringgyeltshen31415@gmail.com**<br>
+💼 [linkedin.com/in/gyeltshen3000](https://linkedin.com/in/gyeltshen3000)
