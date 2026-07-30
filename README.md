@@ -9,8 +9,8 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 **🪂 Freelance**
 <sub>
 
-• **[Zeebar Resort](https://zeebarresort.bt/)**<br>
-• **[Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)**
+• **[Zeebar Resort](https://zeebarresort.bt/)** - Booking website for a resort.<br>
+• **[Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)** - Booking management for a cleaning service.
 
 </sub>
 
@@ -26,7 +26,7 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 **🏢 Corporate Service**
 <sub>
 
-• **Drukair Inner Portal**
+• **Drukair Inner Portal** - A internal portal for the coorperate system of DrukAir
 
 </sub>
 
