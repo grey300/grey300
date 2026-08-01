@@ -9,9 +9,9 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 • **🧘🏻‍♀️ [PoYo](https://poyo-pocket-yoga.vercel.app/)** — Pocket Yoga, an AI-powered yoga platform.<br>
 • **🎓 [Zora](https://zora-nine-gamma.vercel.app/)** — AI-powered education platform.<br>
 • **⛲️ [Zeebar Resort](https://zeebarresort.bt/)** — Booking website for a resort.<br>
-• **🧹 [Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)** — Booking management for a cleaning service.
+• **🧹 [Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)** — Booking management for a cleaning service.<br>
 • **🤖 Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows.<br>
-• **🛩️ Drukair Inner Portal** — An internal portal for the corporate system of Drukair.<br>
+• **🛩️ Drukair Inner Portal** — An internal portal for the corporate system of Drukair.
 
 ---
 
