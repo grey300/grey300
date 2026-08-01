@@ -57,5 +57,5 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 
 ### 📫 Connect
 
-📧 ***tsheringgyeltshen31415@gmail.com***<br>
+📧 **tsheringgyeltshen31415@gmail.com**<br>
 💼 [linkedin.com/in/gyeltshen3000](https://linkedin.com/in/gyeltshen3000)
