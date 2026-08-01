@@ -8,10 +8,10 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 
 • **🧘🏻‍♀️ [PoYo](https://poyo-pocket-yoga.vercel.app/)** — Pocket Yoga, an AI-powered yoga platform.<br>
 • **🎓 [Zora](https://zora-nine-gamma.vercel.app/)** — AI-powered education platform.<br>
-• **🤖 Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows.<br>
-• **🛩️ Drukair Inner Portal** — An internal portal for the corporate system of Drukair.<br>
 • **⛲️ [Zeebar Resort](https://zeebarresort.bt/)** — Booking website for a resort.<br>
 • **🧹 [Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)** — Booking management for a cleaning service.
+• **🤖 Chatbot for ACC** — Secure on-premise RAG agent for document analysis and investigative workflows.<br>
+• **🛩️ Drukair Inner Portal** — An internal portal for the corporate system of Drukair.<br>
 
 ---
 
@@ -22,7 +22,6 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -31,9 +30,14 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 
 ### ⚙ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A45FF?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-11A683?style=flat-square)
 
 ---
 
