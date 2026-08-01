@@ -15,7 +15,7 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 
 ---
 
-# 🛠 Technical Stack
+## 🛠 Technical Stack
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
