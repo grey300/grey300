@@ -83,15 +83,12 @@ I enjoy building intelligent systems, useful applications, and things that go **
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grey300&theme=tokyonight"
-    width="520"
+    width="320"
     alt="Tshering's GitHub statistics"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grey300&theme=tokyonight"
-    width="520"
+    width="320"
     alt="Tshering's most-used languages"
   />
 </p>
