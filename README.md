@@ -74,7 +74,7 @@ I enjoy building intelligent systems, useful applications, and things that go **
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grey300&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grey300&theme=tokyonightcard_width=650"
     width="650"
     alt="Tshering's GitHub profile details"
   />
@@ -95,7 +95,7 @@ I enjoy building intelligent systems, useful applications, and things that go **
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight&hide_border=truecard_width=520"
     width="650"
     alt="Tshering's GitHub contribution streak"
   />
