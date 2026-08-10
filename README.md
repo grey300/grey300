@@ -89,11 +89,3 @@ I enjoy building intelligent systems, useful applications, and things that go **
     alt="Tshering's GitHub contribution streak"
   />
 </p>
-
----
-
-### 📫 Connect
-
-- **Email:** [tsheringgyeltshen31415@gmail.com](mailto:tsheringgyeltshen31415@gmail.com)
-- **LinkedIn:** [linkedin.com/in/gyeltshen3000](https://linkedin.com/in/gyeltshen3000)
-- **GitHub:** [github.com/grey300](https://github.com/grey300)
