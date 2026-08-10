@@ -34,14 +34,26 @@ I enjoy building intelligent systems, useful applications, and things that go **
 
 ### 🛠️ Technical Stack
 
-- **Languages:** Python, JavaScript, TypeScript and Java
-- **Frontend:** React, Next.js, HTML, CSS and Tailwind CSS
-- **Backend:** Node.js, Express.js, Flask and FastAPI
-- **Databases:** PostgreSQL, MongoDB, MySQL and Redis
-- **AI and ML:** TensorFlow, PyTorch, Scikit-learn and OpenCV
-- **AI Concepts:** Large Language Models, RAG, NLP and Computer Vision
-- **Tools:** Git, GitHub, Docker, Vercel, VS Code, Postman and Figma
+- **Languages**  
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" height="28" alt="Python, JavaScript, TypeScript and Java" />
 
+- **Frontend**  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" height="28" alt="React, Next.js, HTML, CSS and Tailwind CSS" />
+
+- **Backend**  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" height="28" alt="Node.js, Express, Flask and FastAPI" />
+
+- **Databases**  
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" height="28" alt="PostgreSQL, MongoDB, MySQL and Redis" />
+
+- **AI and Machine Learning**  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" height="28" alt="TensorFlow, PyTorch, Scikit-learn and OpenCV" />
+
+- **Tools and Platforms**  
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman,figma&theme=dark" height="28" alt="Git, GitHub, Docker, Vercel, VS Code, Postman and Figma" />
+
+- **AI Concepts**  
+  `Large Language Models` · `RAG` · `NLP` · `Computer Vision` · `Data Science`
 ---
 
 ### 📊 GitHub Statistics
