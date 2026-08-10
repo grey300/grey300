@@ -60,17 +60,7 @@ I enjoy building intelligent systems, useful applications, and things that go **
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-#### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
 ---
-
-### 📊 GitHub Statistics
 
 ### 📊 GitHub Statistics
 
