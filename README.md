@@ -12,8 +12,7 @@ I enjoy building intelligent systems, useful applications, and things that go **
 
 ### 🚀 Projects
 
-- **🧘🏻‍♀️ [PoYo](https://poyo-pocket-yoga.vercel.app/)**  
-  An AI-powered pocket yoga platform using computer vision and gamification.
+- **🧘🏻‍♀️ [PoYo](https://poyo-pocket-yoga.vercel.app/)** An AI-powered pocket yoga platform using computer vision and gamification.
 
 - **🎓 [Zora](https://zora-nine-gamma.vercel.app/)**  
   An AI-powered educational platform designed to provide personalized learning experiences.
