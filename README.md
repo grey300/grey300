@@ -72,13 +72,18 @@ I enjoy building intelligent systems, useful applications, and things that go **
 
 ### 📊 GitHub Statistics
 
+### 📊 GitHub Statistics
+
+<!-- First row: 650px -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grey300&theme=tokyonight&card_width=650"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grey300&theme=tokyonight"
+    width="650"
     alt="Tshering's GitHub profile details"
   />
 </p>
 
+<!-- Second row: 320px + 320px -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grey300&theme=tokyonight"
@@ -92,9 +97,11 @@ I enjoy building intelligent systems, useful applications, and things that go **
   />
 </p>
 
+<!-- Third row: generated at 700px and displayed at 650px -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight&hide_border=true&card_width=650"
+    src="https://streak-stats.demolab.com?user=grey300&theme=tokyonight&hide_border=true&card_width=700"
+    width="650"
     alt="Tshering's GitHub contribution streak"
   />
 </p>
