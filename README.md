@@ -44,7 +44,11 @@ A Computer Science who also do AI & Data Science. Got my degree from **GCIT, Bhu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=grey300&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grey300&theme=tokyonight"
+    width="420"
+    alt="Grey300's GitHub statistics"
+  />
 </p>
 
 <p align="center">
