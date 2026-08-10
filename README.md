@@ -75,7 +75,7 @@ I enjoy building intelligent systems, useful applications, and things that go **
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grey300&theme=tokyonight"
-    width="520"
+    width="650"
     alt="Tshering's GitHub profile details"
   />
 </p>
