@@ -14,20 +14,15 @@ I enjoy building intelligent systems, useful applications, and things that go **
 
 - **🧘🏻‍♀️ [PoYo](https://poyo-pocket-yoga.vercel.app/)** An AI-powered pocket yoga platform using computer vision and gamification.
 
-- **🎓 [Zora](https://zora-nine-gamma.vercel.app/)**  
-  An AI-powered educational platform designed to provide personalized learning experiences.
+- **🎓 [Zora](https://zora-nine-gamma.vercel.app/)** An AI-powered educational platform designed to provide personalized learning experiences.
 
-- **⛲ [Zeebar Resort](https://zeebarresort.bt/)**  
-  A resort website with room information, reservations, online booking, and payments.
+- **⛲ [Zeebar Resort](https://zeebarresort.bt/)** A resort website with room information, reservations, online booking, and payments.
 
-- **🧹 [Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)**  
-  A booking and service-management platform for a professional cleaning company.
+- **🧹 [Druk Happy Cleaning Services](https://www.drukhappycleaning.com/)** A booking and service-management platform for a professional cleaning company.
 
-- **🤖 Chatbot for ACC**  
-  A secure, on-premise RAG agent for document analysis, structured data retrieval, and investigative workflows.
+- **🤖 Chatbot for ACC** A secure, on-premise RAG agent for document analysis, structured data retrieval, and investigative workflows.
 
-- **✈️ Drukair Internal Portal**  
-  An internal corporate portal built to support and streamline Drukair's organizational workflows.
+- **✈️ Drukair Internal Portal** An internal corporate portal built to support and streamline Drukair's organizational workflows.
 
 ---
 
