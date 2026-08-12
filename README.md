@@ -84,7 +84,7 @@ I enjoy building intelligent systems, useful applications, and things that go **
 <!-- Third row: 650px -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=grey300&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=700"
+    src="https://streak-stats.demolab.com/?user=grey300&amp;theme=tokyonight&amp;card_width=700&amp;v=2"
     width="650"
     alt="Tshering's GitHub contribution streak"
   />
