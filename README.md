@@ -81,7 +81,7 @@ I enjoy building intelligent systems, useful applications, and things that go **
   />
 </p>
 
-<!-- Third row -->
+<!-- Third row: 650px -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=grey300&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=700"
